@@ -29,7 +29,7 @@ $(document).ready(function() {
     getQuote();
     $(".msg").animate({
       opacity: "1"
-    }, 700);
+    }, 1000);
 
   });
   
